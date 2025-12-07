@@ -8,7 +8,7 @@ int main(){
   //variáveis referentes as cartas com os finais _1 e _2 respectivamente para cada carta
   
   char estado_1[2],estado_2[2];
-  char cod_carta_1[4],cod_carta_2[4];
+  char cod_carta_1[3],cod_carta_2[3];
   char nome_cidade_1[30], nome_cidade_2[30];
   int populacao_1,populacao_2;
   float area_cid_1,area_cid_2;
